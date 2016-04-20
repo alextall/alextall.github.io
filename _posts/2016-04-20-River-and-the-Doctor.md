@@ -12,8 +12,8 @@ ORIGINAL: A few months back I thought I'd try to track River Song through the Do
 
 | River's Chronology                  |  | The Doctor's Chronology             |
 | ----------------------------------- |  | ----------------------------------- |
-| S06E07 - A Good Man Goes to War     |  | S04E10 - Forest of the Dead         |
-| S06E01 - The Impossible Astronaut   |  | S04E09 - Silence in the Library     |
+| S06E07 - A Good Man Goes to War     |  | S04E09 - Silence in the Library     |
+| S06E01 - The Impossible Astronaut   |  | S04E10 - Forest of the Dead         |
 | S06E02 - Day of the Moon            |  | S05E04 - The Time of Angels         |
 | S06E08 - Let's Kill Hitler          |  | S05E05 - Flesh and Stone            |
 | S06E12 - Closing Time               |  | S05E12 - The Pandorica Opens        |
