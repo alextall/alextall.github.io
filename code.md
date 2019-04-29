@@ -1,4 +1,4 @@
 ---
 title: Code
-redirect_to: http://codingtall.com
+redirect_to: https://codingtall.com
 ---
